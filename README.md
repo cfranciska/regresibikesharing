@@ -1,5 +1,4 @@
-# Prediksi Permintaan Sewa Sepeda Per Jam 
-(Bike Sharing Demand Prediction)
+# Prediksi Permintaan Sewa Sepeda/Jam (Bike Sharing Demand Prediction)
 
 ## 🎯 Tujuan Proyek
 Proyek ini bertujuan untuk membangun model **Machine Learning Regresi** yang dapat memprediksi secara akurat **jumlah total peminjaman sepeda per jam**.
